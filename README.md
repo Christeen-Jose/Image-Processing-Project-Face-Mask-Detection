@@ -15,7 +15,7 @@ Our system is implemented in Python language, and the following are the importan
 * automail.py: This module is used to send email notifications to a specific email address.
 ## Have a look on the application!
 ![ATTENDANCE](https://github.com/Christeen-Jose/Attendance_and_Face_Mask_Recognition_System/blob/main/attendance.png)
-### The application can be utilized by downloading it from the 'Release' section of this page and subsequently acquiring it from the 'Asset' section of the release session or click here -->[Link](https://github.com/ChristeenJose/Attendance_and_Face_Mask_Recognition_System/releases/download/v1.0.0/Attendance.and.Face.Mask.Recognition.System.Win64.1.0.0.zip)
+### The application can be utilized by downloading it from the 'Release' section of this page and subsequently acquiring it from the 'Asset' section of the release session or click here ------->[Link](https://github.com/ChristeenJose/Attendance_and_Face_Mask_Recognition_System/releases/download/v1.0.0/Attendance.and.Face.Mask.Recognition.System.Win64.1.0.0.zip)
 
 
 ### **Special Thanks to:** ***Anand V Sunil***
